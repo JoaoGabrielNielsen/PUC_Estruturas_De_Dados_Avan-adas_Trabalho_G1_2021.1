@@ -54,5 +54,6 @@ Serão avaliadas as seguintes expressões:
         (2) Os algoritmos foram implementados e aplicados de forma correta;
         (3) O código foi devidamente organizado;
         (4) Os resultados estão corretos;
+
 O resultado pode ser calculado também pelo algoritmo Shunting Yard mas é 
 obrigatório que o resultado final seja calculado pela árvore de expressão
