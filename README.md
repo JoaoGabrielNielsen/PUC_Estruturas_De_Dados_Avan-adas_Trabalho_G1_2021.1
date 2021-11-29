@@ -2,8 +2,8 @@
 Primeiro trabalho da matéria de Estruturas de Dados Avançadas(INF1010), cursada no período de 2021.1 na PUC-Rio
 
 #Grupo:
-João Gabriel Nielsen 1820419 
-Bernardo Ruiz Fernandes 1711180
+João Gabriel Nielsen
+Bernardo Ruiz Fernandes
 
 #Descrição:
 
